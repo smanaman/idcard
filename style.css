@@ -1,0 +1,73 @@
+*{
+    font-family: "Merriweather", serif;
+}
+.main{
+    width: 100%;
+    height: 900px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?cs=srgb&dl=pexels-pixabay-326333.jpg&fm=jpg");
+    filter: blur(9px); 
+}
+.main2{
+    width: 35%;
+    height: 300px;
+    /* border: 1px solid black; */
+}
+
+.m2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+
+}
+.main_21{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}
+.main22{
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+}
+.div1{
+    width: 30%;
+    height: 250px;
+    border: 1px solid black;
+  
+}
+.img1{
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    width: 70%;
+    height: 250px;
+    border: 1px solid black;
+
+}
+
+.div2 div{
+    margin-left: 5px;
+    /* border: 1px solid black; */
+
+}
+h3{
+    color: white;
+}
+.frid{
+    height: 40px;
+    border: 1px solid transparent;
+}
